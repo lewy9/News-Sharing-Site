@@ -1,4 +1,3 @@
-# Model 3 Group Project
 
 - You can access our website throught this link:http://ec2-18-220-253-254.us-east-2.compute.amazonaws.com/~lzy/module3/main0.php
 
